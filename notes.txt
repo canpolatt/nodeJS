@@ -1,0 +1,5 @@
+- Google uses the V8 engine to run the Javascript
+- Node does not know how to run JavaScript code. It also uses that V8 engine so a node needs to run a script.
+- require function, how we load in modules and we pass to a single string
+- node inspect app.js add --title='t' --body='b'  --> chrome://inspect
+- A callback function is nothing more than a function we provide as an argument to another function with the intention of having it called later on.
